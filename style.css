@@ -44,9 +44,9 @@ body{
 }
 .conteudo-principal {
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     align-items: center;
-    justify-content: space-around;x
+    justify-content: space-around;
 }
 .conteudo-principal-escrito {
     display: flex;
